@@ -1,2 +1,2 @@
-# ComputerArch
+# Computer Architecture
  
